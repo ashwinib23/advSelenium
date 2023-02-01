@@ -11,6 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class SampleTest1 {
 
 	//modified in github
+	//modified in eclipse
 	@Test
 	public void m1() {
 		WebDriver driver;
