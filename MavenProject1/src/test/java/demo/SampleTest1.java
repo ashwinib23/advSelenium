@@ -12,6 +12,7 @@ public class SampleTest1 {
 
 	//modified in github
 	//modified in eclipse
+	//pushed
 	@Test
 	public void m1() {
 		WebDriver driver;
